@@ -1,0 +1,19 @@
+{
+  "name": "co",
+  "version": "1.0.0",
+  "description": "jajco",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "jajco"
+  ],
+  "author": "K4CP3R",
+  "license": "MIT",
+  "dependencies": {
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "discord.js-12": "^1.0.2"
+  }
+}
